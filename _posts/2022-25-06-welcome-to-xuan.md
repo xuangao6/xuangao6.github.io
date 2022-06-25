@@ -21,6 +21,6 @@ sidebar: []
 ---
 
 
-## section 1
+## About the author
 
-Hello everyone, my name is Xuan. I love Ivar.
+Hello everyone, my name is Xuan. I will write posts here.
